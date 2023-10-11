@@ -12,9 +12,6 @@ permissions:
 
 jobs:
   build:
-    service-worker:
-      enabled: true
-      sw-src: /src/js/service-worker.js
     runs-on: ubuntu-latest
     environment:
       name: github-pages
