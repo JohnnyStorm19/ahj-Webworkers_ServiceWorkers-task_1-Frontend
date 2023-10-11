@@ -1,15 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀[Запустить виджет](https://johnnystorm19.github.io/ahj-RXJS-task_1-Frontend/)
+[![Netology AHJ](https://github.com/JohnnyStorm19/ahj-RXJS-task_1-Frontend/actions/workflows/web.yml/badge.svg)](https://github.com/JohnnyStorm19/ahj-RXJS-task_1-Frontend/actions/workflows/web.yml)
 
-This project has been created using **webpack-cli**, you can now run
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
