@@ -1,5 +1,5 @@
 import News from "./News";
-import Widget from "./widget";
+import Widget from "./Widget";
 import { CURRENT_URL } from './globals.js';
 import WidgetApi from "./WidgetApi";
 
